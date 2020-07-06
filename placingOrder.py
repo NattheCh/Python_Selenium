@@ -5,6 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.select import Select
 from webdriver_manager.chrome import ChromeDriverManager
+from signInOut import sign_in
 
 driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.get("http://automationpractice.com")
@@ -27,3 +28,4 @@ WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, ".b
 driver.find_elements_by_css_selector(".button-medium")[0].click()
 
 driver.find_element_by_link_text("Proceed to checkout").click()
+sign_in(driver)
