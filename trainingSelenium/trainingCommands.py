@@ -14,5 +14,6 @@ print(driver.find_element_by_css_selector("td:nth-child(2)").text)
 print(driver.find_element_by_xpath("//tbody//tr[2]//td[2]").text)
 lista = len(driver.find_elements_by_xpath("//tbody//tr"))
 print(lista)
+print(driver.find_element_by_id("header_logo").size.get("height"))
 
 driver.quit()
