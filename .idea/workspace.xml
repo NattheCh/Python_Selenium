@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="57a48fd3-d8f0-4ff3-a4da-fca7ff20cdf6" name="Default Changelist" comment="pytest marking" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fMbw4tFHc7J8XWpEslY7ErePQQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\Python_Selenium\pytestProject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for dodawanie_test.test_dodawania">
+    <configuration name="Python" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python_Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Admin\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for dodawanie_test.test_dodawania" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Python_Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytest_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;dodawanie_test.test_dodawania&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in dodawanie_test.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Python_Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytest_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/pytest_project/dodawanie_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for dodawanie_test.test_dodawania" />
+        <item itemvalue="Python tests.pytest in dodawanie_test.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57a48fd3-d8f0-4ff3-a4da-fca7ff20cdf6" name="Default Changelist" comment="" />
+      <created>1596031143756</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596031143756</updated>
+    </task>
+    <task id="LOCAL-00001" summary="pytest marking">
+      <created>1598907524727</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598907524728</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pytest marking" />
+    <option name="LAST_COMMIT_MESSAGE" value="pytest marking" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="85" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596033950722">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="85" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1596033950722" />
+    <state x="667" y="197" key="EnvironmentVariablesDialog" timestamp="1596033921631">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="667" y="197" key="EnvironmentVariablesDialog/0.0.1600.860@0.0.1600.860" timestamp="1596033921631" />
+    <state x="580" y="172" key="FileChooserDialogImpl" timestamp="1596033947128">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="172" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1596033947128" />
+    <state width="1579" height="206" key="GridCell.Tab.0.bottom" timestamp="1598907568807">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="206" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1598907568807" />
+    <state width="1579" height="206" key="GridCell.Tab.0.center" timestamp="1598907568806">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="206" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1598907568806" />
+    <state width="1579" height="206" key="GridCell.Tab.0.left" timestamp="1598907568805">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="206" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1598907568805" />
+    <state width="1579" height="206" key="GridCell.Tab.0.right" timestamp="1598907568806">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="206" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1598907568806" />
+    <state x="301" y="75" key="SettingsEditor" timestamp="1598907209808">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="75" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1598907209808" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1598907549831">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1598907549831" />
+    <state x="463" y="180" key="search.everywhere.popup" timestamp="1596034175354">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1596034175354" />
+  </component>
+</project>
